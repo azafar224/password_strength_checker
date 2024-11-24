@@ -1,0 +1,23 @@
+{
+  "name": "password-strength-checker-ahmad",
+  "version": "1.1.0",
+  "description": "A lightweight library to check password strength.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "password",
+    "strength",
+    "validation",
+    "security",
+    "npm-package"
+  ],
+  "author": "Ahmad Zafar Khan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azafar224/password_strength_checker.git"
+  },
+  "homepage": "https://github.com/azafar224/password_strength_checker#readme"
+}
